@@ -16,3 +16,10 @@ Projeto para otimizar o fluxo de informações comerciais, eliminando o trabalho
 ✅ **Governança:** Registra data e hora do exato momento do envio, garantindo o controle do fluxo.
 
 **Resultado:** Menos tempo gasto em tarefas repetitivas e mais foco na análise estratégica.
+
+---
+
+**🛠 Stack Técnica:**
+**Linguagem:** Python / Bibliotecas: Pandas, smtlib, OS, EmailMessagee, get_column_letter, Font e Datetime
+
+**Dados:** Excel
