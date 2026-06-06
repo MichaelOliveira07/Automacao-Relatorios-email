@@ -1,8 +1,8 @@
 ## 🤖 Automação de Relatórios (Excel) com Python | Envio Automático por E-mail
 
-### 1. Objetivo do Projeto:
+### 💡1. Objetivo do Projeto:
 
-💡 Projeto para otimizar o fluxo de informações comerciais, eliminando o trabalho manual de segmentação e distribuição de dados, garantindo que a informação chegue para os gestores com agilidade e precisão.
+Projeto para otimizar o fluxo de informações comerciais, eliminando o trabalho manual de segmentação e distribuição de dados, garantindo que a informação chegue para os gestores com agilidade e precisão.
 
 ---
 
