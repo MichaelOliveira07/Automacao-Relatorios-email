@@ -2,7 +2,7 @@
 
 
 Projeto para otimizar o fluxo de informações comerciais, eliminando o trabalho manual de segmentação e distribuição de dados, garantindo que a informação chegue para os gestores com agilidade e precisão.
-
+---
 **O que o código faz:**
 
 ✅ **Processamento:** Lê uma base de vendas e segmenta automaticamente os dados por Estados. 
