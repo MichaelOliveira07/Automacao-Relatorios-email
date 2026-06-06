@@ -21,6 +21,6 @@ Projeto para otimizar o fluxo de informações comerciais, eliminando o trabalho
 
 **🛠 Stack Técnica:**
 
-**Linguagem:** Python / Bibliotecas: Pandas, smtlib, OS, EmailMessagee, get_column_letter, Font e Datetime
+**Linguagem:** Python / **Bibliotecas:** Pandas, smtlib, OS, EmailMessagee, get_column_letter, Font e Datetime
 
 **Dados:** Excel
