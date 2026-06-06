@@ -1,6 +1,6 @@
 ## 🤖 Automação de Relatórios (Excel) com Python | Envio Automático por E-mail
 
-### 💡1. Objetivo do Projeto:
+### 🧠1. Objetivo do Projeto:
 
 Projeto para otimizar o fluxo de informações comerciais, eliminando o trabalho manual de segmentação e distribuição de dados, garantindo que a informação chegue para os gestores com agilidade e precisão.
 
@@ -8,17 +8,17 @@ Projeto para otimizar o fluxo de informações comerciais, eliminando o trabalho
 
 ### 🛠2. Ferramentas Utilizadas:
 
-**Jupyter Notebook:** Como ambiente de desenvolvimento
+- **Jupyter Notebook:** Como ambiente de desenvolvimento
 
-**Linguagem:** Python para desenvolvimento de todo o projeto
+- **Linguagem:** Python para desenvolvimento de todo o projeto
 
-**Bibliotecas:** pandas, smtlib, os, EmailMessagee, get_column_letter, Font e datetime
+- **Bibliotecas:** pandas, smtlib, os, EmailMessagee, get_column_letter, Font e datetime
 
-**Dados:** Excel 
+- **Dados:** Excel 
 
 ---
 
-### 3. Resultado:
+### 💡3. Resultado:
 
 ✅ **Processamento:** Lê uma base de vendas e segmenta automaticamente os dados por Estados. 
 
@@ -28,4 +28,4 @@ Projeto para otimizar o fluxo de informações comerciais, eliminando o trabalho
 
 ✅ **Governança:** Registra data e hora do exato momento do envio, garantindo o controle do fluxo.
 
-**Resultado:** Menos tempo gasto em tarefas repetitivas e mais foco na análise estratégica.
+💡**Resultado:** Menos tempo gasto em tarefas repetitivas e mais foco na análise estratégica.
